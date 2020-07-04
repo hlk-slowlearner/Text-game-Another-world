@@ -6,3 +6,5 @@ READEME.TXT : Details of the game (in Chinese)
 game.py : Run the code directly under python3.x to start the game.
 
 game ： A program packaged with pyinstaller on mac systems. Just run it on your mac system and start playing.
+
+game.exe ：A program packaged with pyinstaller on win systems. Just run it on your win system and start playing.
